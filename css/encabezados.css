@@ -1,0 +1,13 @@
+/*Documento css*/
+body {background-color: lightskyblue;
+      font-family: "Oswald", sans-serif;}
+
+h1,h3 {color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+    text-transform: uppercase;}
+
+h2, h4 {color: indigo;}
+
+div p small {color: red;
+              font-weight:bold;}
